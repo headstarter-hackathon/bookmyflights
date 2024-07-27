@@ -1,0 +1,9 @@
+com\excelr\bookmyflights\BookMyFlightApplication.class
+com\excelr\bookmyflights\controller\FlightController.class
+com\excelr\bookmyflights\service\TicketService.class
+com\excelr\bookmyflights\repository\FlightRepository.class
+com\excelr\bookmyflights\controller\TicketController.class
+com\excelr\bookmyflights\repository\TicketRepository.class
+com\excelr\bookmyflights\model\Ticket.class
+com\excelr\bookmyflights\service\FlightService.class
+com\excelr\bookmyflights\model\Flight.class
